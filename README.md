@@ -52,10 +52,12 @@ Me caracterizo por la creatividad, el trabajo colaborativo y la capacidad de apr
 Ayuda a estudiantes a elegir su carrera mediante un test y recomendaciones personalizadas.
 
 🔹 Plataforma web para pequeña empresa
-➡️ Implementación de diseño y desarrollo web en rubro e-commerce para agilizar decisiones estratégicas.
----
+➡️ Full-stack con Bootstrap, Node.js y MongoDB.
+Implementación de diseño y desarrollo web en rubro e-commerce para agilizar decisiones estratégicas.
 
-🎓 Certificaciones
+
+---
+## 🎓 Certificaciones
 
 🔹 Full Stack Developer — SENSE
 Curso completo de desarrollo full stack con énfasis en React, Node.js y bases de datos, desarrollando proyectos reales.
