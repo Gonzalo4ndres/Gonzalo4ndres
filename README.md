@@ -22,6 +22,7 @@ Me caracterizo por la creatividad, el trabajo colaborativo y la capacidad de apr
 📚 Interés en el aprendizaje continuo y exploración de nuevas tecnologías.
 
 📈 Enfoque en trabajo colaborativo bajo metodologías ágiles.
+
 ---
  
 ## 🛠️ Tech Stack  
