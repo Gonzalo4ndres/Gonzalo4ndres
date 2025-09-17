@@ -67,7 +67,7 @@ Formación en experiencia de usuario y diseño de interfaces, manejo de Figma, p
  
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gonzalo4ndres&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavilavenegas4&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalo4ndres&layout=compact&theme=tokyonight)
  
 ---
  
